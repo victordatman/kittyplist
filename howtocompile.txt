@@ -1,0 +1,2 @@
+g++ kittyplist.cpp -o kittyplist -lblkid
+./kittyplist
